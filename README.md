@@ -20,7 +20,7 @@ and a supervisor runs A* to the goal. Includes PID path-following and collision 
 
 ```bash
 # 1) clone
-git clone https://github.com/<you>/webots-epuck-mapping-a-star
+git clone https://github.com/ArashG3831/webots-epuck-mapping-a-star
 cd webots-epuck-mapping-a-star
 
 # 2) (optional) create venv & install deps for plotting
@@ -30,3 +30,4 @@ pip install -r requirements.txt
 # 3) open world and run
 #   Webots → File → Open World → worlds/maze_small.wbt
 #   press "Run" ▶
+
